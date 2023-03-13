@@ -1,0 +1,4 @@
+rootProject.name = 'root-module'
+
+include 'message-consumer'
+include 'message-producer'
